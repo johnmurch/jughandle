@@ -3,7 +3,7 @@ Automatic Referral Tracking
 [GitHub](https://github.com/johnmurch/jughandle)
 
 
-Inspired by [https://medium.com/@mattangriffel/out-of-startup-ideas-here-have-a-few-49acac7c3405](@mattangriffel)
+Inspired by [@mattangriffel](https://medium.com/@mattangriffel/out-of-startup-ideas-here-have-a-few-49acac7c3405)
 
 ## Automatic referral tracking through URL
 this one is kind of technical, but every page on a product should append a unique parameter (something like ?id=532391) that way when I copy the URL and send it to a friend, they know who referred who. And a link could be permanently created between users
